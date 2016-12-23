@@ -1,3 +1,3 @@
 # demo
-it's a [dome](https://github.io/heyuxin/demo)
+it's a [dome](https://heyuxin.io/demo)
 \>_<
